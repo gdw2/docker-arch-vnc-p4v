@@ -1,1 +1,0 @@
-exec bash -c 'pidof p4v &>/dev/null || exec /root/p4v/bin/p4v'
